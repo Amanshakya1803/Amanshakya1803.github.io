@@ -11419,7 +11419,7 @@ pre .code {
   z-index: 2;
   box-shadow: 0 5px 1px rgba(128, 128, 128, 0.13);
   width: 170px;
-  border-radius: 50%;
+  border-radius: 1rem;
 }
 
 .navbar .brand .brand-txt {
@@ -11674,7 +11674,4 @@ pre .code {
   height: 180px;
   overflow: hidden;
   width: 100px;
-}
-.img-fluid{
-  transform: scale(1.5) translate(5px,-20px);
 }
